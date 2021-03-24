@@ -28,7 +28,7 @@
 - A program that procedurally generates a scene in Blender that looks like it's from the White Mountains.
 # Content
 - Write post about your programming journey for the website.
-- Add content to the lists in [unhm-programming-team/idea-generator/data.py](https://github.com/unhm-programming-team/idea-generator/data.py) so the bot can generate more diverse game ideas
+- Add content to the lists in [unhm-programming-team/idea-generator/data.py](https://github.com/unhm-programming-team/idea-generator/blob/main/data.py) so the bot can generate more diverse game ideas
 - Make an art asset, such as a game sprite or button in Paint3D, Photoshop, GIMP, or MSPaint
 - Try your hand at making a 3D art asset in Blender.
 - Brainstorm a project idea and add it to this repo.
