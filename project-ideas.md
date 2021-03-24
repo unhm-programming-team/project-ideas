@@ -1,6 +1,6 @@
 # AI
 - Discord Bot Additions.
-- A Discord Bot Feature to generate random game ideas.
+- A Discord Bot Feature to generate random game ideas. (Done!)
 - A Discord Bot Feature to generate computer science or programming facts.
 - Getting access to GPT 3 through OpenAI and making an amazing conversation bot.
 # Blender
@@ -16,6 +16,7 @@
 # Games
 - A game of Parchesi you can play in your browser.
 - Pick 1 from 10 randomly generated game ideas from: https://seblague.github.io/ideagenerator/
+- Get a random game idea from the Discord bot: Type ?idea in discord chat
 - A platformer where the wildcat jumps through hoops to get their final paper to the end of the level.
 - A programming club management sim.
 # Javascript
