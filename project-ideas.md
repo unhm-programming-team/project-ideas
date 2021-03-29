@@ -19,6 +19,7 @@
 - Get a random game idea from the Discord bot: Type ?idea in discord chat
 - A platformer where the wildcat jumps through hoops to get their final paper to the end of the level.
 - A programming club management sim.
+- I was thinking we could make a few 2D games in python. Something like Sudoku or snake.
 # Javascript
 - Make a React widget, a calendar, to-do list, etc.
 - Make a data visualization with d3.
