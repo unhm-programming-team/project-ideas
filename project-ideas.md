@@ -26,6 +26,8 @@
 - Make a physics simulation with 3Js.
 - Make an in-browser game.
 - Make a theme and/or features for the website.
+# Admin
+- a secure hosted database to keep member contact info and status
 # Procedural
 - A program that procedurally generates a scene in Blender that looks like it's from the White Mountains.
 # Content
