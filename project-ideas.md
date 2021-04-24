@@ -11,6 +11,7 @@
 - An API to generate UNH facts and an automation to call that API and tweet them once a week.
 # Applications
 - A discord clone or replacement.
+- lightweight discord client
 - A 2d physics simulator and problem visualizer.
 - A program that generates images or edits them in an interesting way.
 # Games
