@@ -3,6 +3,7 @@
 - A Discord Bot Feature to generate random game ideas. (Done!)
 - A Discord Bot Feature to generate computer science or programming facts.
 - Getting access to GPT 3 through OpenAI and making an amazing conversation bot.
+- Play around with CleverBot
 # Blender
 - Making a blender addon (works with Python).
 - A blender addon that randomly generates Wildcat meshes.
@@ -14,6 +15,7 @@
 - lightweight discord client
 - A 2d physics simulator and problem visualizer.
 - A program that generates images or edits them in an interesting way.
+- Write the BEST music bot that discord has ever seen
 # Games
 - A game of Parchesi you can play in your browser.
 - Pick 1 from 10 randomly generated game ideas from: https://seblague.github.io/ideagenerator/
@@ -23,6 +25,7 @@
 - I was thinking we could make a few 2D games in python. Something like Sudoku or snake.
 # Javascript
 - Make a React widget, a calendar, to-do list, etc.
+- Make an online planner that is easily customizable and gives many formatting options (I have tried several of these out and have never found one that I like)
 - Make a data visualization with d3.
 - Make a physics simulation with 3Js.
 - Make an in-browser game.
